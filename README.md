@@ -156,15 +156,11 @@ This project was completed as **Task 1** of the **CodeAlpha Data Science Interns
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yassinebouachrine](https://github.com/yassinebouachrine)
-- LinkedIn: [yassinebouachrine](www.linkedin.com/in/yassine-bouachrine-68b761230)
+- GitHub: [yassinebouachrine](https://github.com/yassinebouachrine)
+- LinkedIn: [yassinebouachrine](https://linkedin.com/in/yassine-bouachrine-68b761230)
 
 ---
 
 ## 📄 License
-
-<<<<<<< HEAD
-This project is open source and available under the [MIT License](LICENSE).
-=======
 This project is open source and available under the [MIT License](LICENSE).
 >>>>>>> 2b824a8f6b02336f98e72b3e0639e1e736688b50
